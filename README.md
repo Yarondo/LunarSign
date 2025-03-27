@@ -1,4 +1,4 @@
-# Chinese-Zodiac-Generator
+# LunarSign
 This Python code is an implementation of a dynamic Chinese zodiac that can be used to determine the Chinese zodiac based on the current year.
 
 ## Installation
